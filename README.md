@@ -13,5 +13,6 @@
 - [x] Izgrūšana uz GitHub
 - [x] Projekta pabeigšana
 - [x] **Izveidots jauns zars - mansZars**
+- [x] Papildināta programma
 
 ## Otrais virsraksts
