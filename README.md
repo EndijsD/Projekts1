@@ -12,3 +12,6 @@
 - [x] Pirmā projekta uzsākšana
 - [x] Izgrūšana uz GitHub
 - [x] Projekta pabeigšana
+- [x] **Izveidots jauns zars - mansZars**
+
+## Otrais virsraksts
