@@ -10,5 +10,5 @@
 ![Mana bilde](https://pbs.twimg.com/tweet_video_thumb/C34h-HpVMAEgAGc.jpg)
 
 - [x] Pirmā projekta uzsākšana
-- [ ] Izgrūšana uz GitHub
-- [ ] Projekta pabeigšana
+- [x] Izgrūšana uz GitHub
+- [x] Projekta pabeigšana
